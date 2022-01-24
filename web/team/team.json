@@ -8,22 +8,95 @@
             "role": "Core Maintainer. Issue triaging, bug fixing, documentation, website.",
             "active_range": "Since 2020"
         },
+	{
+            "full_name": "Steven Bird",
+            "github_username": "stevenbird",
+            "personal_website_url": "http://stevenbird.net",
+            "location": "Darwin, Australia",
+            "role": "Core Maintainer.",
+            "active_range": "2001-"
+        }
         {
-            "full_name": "Arbitrary Human",
-            "github_username": "this-user-hopefully-does-not-exist",
-            "personal_website_url": "https://www.google.com",
-            "location": "Within the Milky Way, hypothetically",
-            "role": "Introducing bugs",
-            "active_range": "For far too long"
+            "full_name": "Liling Tan",
+            "github_username": "alvations",
+            "personal_website_url": "https://alvations.bitbucket.io",
+            "location": "...",
+            "role": "...",
+            "active_range": "2014-"
+        }
+        {
+            "full_name": "Ilia Kurenkov",
+            "github_username": "iliakur",
+            "personal_website_url": "",
+            "location": "...",
+            "role": "...",
+            "active_range": "2012-"
         }
     ],
     "former": [
         {
-            "full_name": "Someone else",
-            "github_username": "presumably-this-user-doesnt-exist-either",
-            "location": "Earth",
-            "role": "Absolutely nothing",
-            "active_range": "Who knows?"
+            "full_name": "Edward Loper",
+            "github_username": "edloper",
+            "personal_website_url": "http://edward.loper.org",
+            "location": "Baltimore, USA",
+            "role": "Core Maintainer",
+            "active_range": "2001-2013"
+        }
+        {
+            "full_name": "Trevor Cohn",
+            "github_username": "trevorcohn",
+            "personal_website_url": "https://people.eng.unimelb.edu.au/tcohn/",
+            "location": "Melbourne, Australia",
+            "role": "parsing, classification",
+            "active_range": "2003-2005"
+        }
+        {
+            "full_name": "Ewan Klein",
+            "github_username": "ewan-klein",
+            "personal_website_url": "https://homepages.inf.ed.ac.uk/ewan/",
+            "location": "Edinburgh, UK",
+            "role": "semantics",
+            "active_range": "2003-2015"
+        }
+        {
+            "full_name": "Peter Ljunglöf",
+            "github_username": "heatherleaf",
+            "personal_website_url": "http://www.cse.chalmers.se/~peb/",
+            "location": "Gothenburg, Sweden",
+            "role": "...",
+            "active_range": "2008-2014"
+        }
+        {
+            "full_name": "Dan Garrette",
+            "github_username": "dhgarrette",
+            "personal_website_url": "http://www.dhgarrette.com",
+            "location": "New York, USA",
+            "role": "...",
+            "active_range": "2007-2015"
+        }
+        {
+            "full_name": "Dmitrijs Milajevs",
+            "github_username": "dimazest",
+            "personal_website_url": "http://zest.id.lv",
+            "location": "Oakland, USA",
+            "role": "...",
+            "active_range": "2014-2017"
+        }
+        {
+            "full_name": "Nathan Schneider",
+            "github_username": "nschneid",
+            "personal_website_url": "https://people.cs.georgetown.edu/nschneid/",
+            "location": "Georgetown, USA",
+            "role": "...",
+            "active_range": "2012-2017"
+        }
+        {
+            "full_name": "Mikhail Korobov",
+            "github_username": "kmike",
+            "personal_website_url": "http://kmike.ru/pages/about/",
+            "location": "Ekaterinburg, Russia",
+            "role": "...",
+            "active_range": "2012-2015"
         }
     ]
 }
