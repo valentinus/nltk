@@ -28,9 +28,25 @@
             "full_name": "Ilia Kurenkov",
             "github_username": "iliakur",
             "personal_website_url": "",
-            "location": "...",
+            "location": "Berlin, Germany",
             "role": "...",
             "active_range": "2012-"
+        }
+	{
+            "full_name": "Joel Nothman",
+            "github_username": "jnothman",
+            "personal_website_url": "",
+            "location": "Sydney, Australia",
+            "role": "Metrics, sentence tokenization",
+            "active_range": "2008-"
+        }
+	{
+            "full_name": "Alexis Dimitriadis",
+            "github_username": "alexisdimi",
+            "personal_website_url": "",
+            "location": "Utrecht, Netherlands",
+            "role": "NLTK-Users",
+            "active_range": "2011-"
         }
     ],
     "former": [
@@ -55,7 +71,7 @@
             "github_username": "ewan-klein",
             "personal_website_url": "https://homepages.inf.ed.ac.uk/ewan/",
             "location": "Edinburgh, UK",
-            "role": "semantics",
+            "role": "Semantics",
             "active_range": "2003-2015"
         }
         {
@@ -63,7 +79,7 @@
             "github_username": "heatherleaf",
             "personal_website_url": "http://www.cse.chalmers.se/~peb/",
             "location": "Gothenburg, Sweden",
-            "role": "...",
+            "role": "Parsing",
             "active_range": "2008-2014"
         }
         {
@@ -71,7 +87,7 @@
             "github_username": "dhgarrette",
             "personal_website_url": "http://www.dhgarrette.com",
             "location": "New York, USA",
-            "role": "...",
+            "role": "Semantics",
             "active_range": "2007-2015"
         }
         {
@@ -95,7 +111,7 @@
             "github_username": "kmike",
             "personal_website_url": "http://kmike.ru/pages/about/",
             "location": "Ekaterinburg, Russia",
-            "role": "...",
+            "role": "Python 3",
             "active_range": "2012-2015"
         }
         {
