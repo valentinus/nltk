@@ -15,7 +15,7 @@
             "location": "Darwin, Australia",
             "role": "Core Maintainer.",
             "active_range": "2001-"
-        }
+        },
         {
             "full_name": "Liling Tan",
             "github_username": "alvations",
@@ -23,7 +23,7 @@
             "location": "...",
             "role": "...",
             "active_range": "2014-"
-        }
+        },
         {
             "full_name": "Ilia Kurenkov",
             "github_username": "iliakur",
@@ -31,7 +31,7 @@
             "location": "Berlin, Germany",
             "role": "...",
             "active_range": "2012-"
-        }
+        },
 	{
             "full_name": "Joel Nothman",
             "github_username": "jnothman",
@@ -39,7 +39,7 @@
             "location": "Sydney, Australia",
             "role": "Metrics, sentence tokenization",
             "active_range": "2008-"
-        }
+        },
 	{
             "full_name": "Alexis Dimitriadis",
             "github_username": "alexisdimi",
@@ -57,7 +57,7 @@
             "location": "Baltimore, USA",
             "role": "Core Maintainer",
             "active_range": "2001-2013"
-        }
+        },
         {
             "full_name": "Trevor Cohn",
             "github_username": "trevorcohn",
@@ -65,7 +65,7 @@
             "location": "Melbourne, Australia",
             "role": "parsing, classification",
             "active_range": "2003-2005"
-        }
+        },
         {
             "full_name": "Ewan Klein",
             "github_username": "ewan-klein",
@@ -73,7 +73,7 @@
             "location": "Edinburgh, UK",
             "role": "Semantics",
             "active_range": "2003-2015"
-        }
+        },
         {
             "full_name": "Peter Ljunglöf",
             "github_username": "heatherleaf",
@@ -81,7 +81,7 @@
             "location": "Gothenburg, Sweden",
             "role": "Parsing",
             "active_range": "2008-2014"
-        }
+        },
         {
             "full_name": "Dan Garrette",
             "github_username": "dhgarrette",
@@ -89,7 +89,7 @@
             "location": "New York, USA",
             "role": "Semantics",
             "active_range": "2007-2015"
-        }
+        },
         {
             "full_name": "Dmitrijs Milajevs",
             "github_username": "dimazest",
@@ -97,7 +97,7 @@
             "location": "Oakland, USA",
             "role": "...",
             "active_range": "2014-2017"
-        }
+        },
         {
             "full_name": "Nathan Schneider",
             "github_username": "nschneid",
@@ -105,7 +105,7 @@
             "location": "Georgetown, USA",
             "role": "...",
             "active_range": "2012-2017"
-        }
+        },
         {
             "full_name": "Mikhail Korobov",
             "github_username": "kmike",
@@ -113,7 +113,7 @@
             "location": "Ekaterinburg, Russia",
             "role": "Python 3",
             "active_range": "2012-2015"
-        }
+        },
         {
             "full_name": "Pierpaolo Pantone",
             "github_username": "fievelk",
