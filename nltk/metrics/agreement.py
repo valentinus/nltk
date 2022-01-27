@@ -307,7 +307,7 @@ class AnnotationTask:
 
         total_do = 0.0  # Total observed disagreement for all items.
         for i, itemdata in self._grouped_data("item"):
-            label_freqs = FreqDist(x["labels"] for x in itemdata if x["labels"] isnot None)
+            label_freqs = FreqDist(x["labels"] for x in itemdata if x["labels"] is not None)
             labels_count = sum(label_freqs.values())
             if labels_count < 2:
                 # Ignore the item.
